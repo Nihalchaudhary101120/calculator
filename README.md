@@ -8,7 +8,7 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 
 ## 🚀 Features
 - Perform basic arithmetic operations (Addition, Subtraction, Multiplication, Division)
-- Responsive design (works on mobile and desktop)
+- Responsive design (works on desktop)
 - Clear and backspace functionality
 - Keyboard input support (optional if added later)
 
