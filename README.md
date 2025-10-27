@@ -1,5 +1,8 @@
 
 # 🧮 Calculator
+## 🔗 Live Demo
+Try it here 👉 [Calculator by Nihal](https://nihalchaudhary101120.github.io/calculator/)
+
 
 A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScript**.
 
