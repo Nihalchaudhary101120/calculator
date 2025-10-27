@@ -79,7 +79,7 @@ button:hover {
     margin-top: 10px;
 }
 
-/* ✅ RESPONSIVE DESIGN FOR MOBILE */
+
 @media (max-width: 600px) {
     body {
         height: auto;
